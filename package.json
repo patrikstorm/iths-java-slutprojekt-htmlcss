@@ -8,5 +8,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrikstorm/iths-java-slutprojekt-htmlcss.git"
+  },
+  "bugs": {
+    "url": "https://github.com/patrikstorm/iths-java-slutprojekt-htmlcss/issues"
+  },
+  "homepage": "https://github.com/patrikstorm/iths-java-slutprojekt-htmlcss#readme",
   "description": ""
 }
