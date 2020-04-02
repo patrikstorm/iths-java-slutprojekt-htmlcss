@@ -12,6 +12,20 @@ header {
     background-position: center;
 
     }
+
+    ul {
+        float: left;
+        list-style-type: none;
+    }
+    ul li {
+        display: inline-block;
+    }
+    ul li a {
+        text-decoration: none;
+        color: #fff;
+        padding: 5px 20px ;
+        border: 1px solid;
+    }
 }
 
     @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
@@ -19,7 +33,20 @@ header {
             background-image: url(../../img/2.png);
             height: 100vh;          
             background-size: cover;
-            background-position: center;
+         }
+
+         ul {
+            float: left;
+            list-style-type: none;
+        }
+        ul li {
+            display: table-row;
+        }
+        ul li a {
+            text-decoration: none;
+            color: #fff;
+            padding: 5px 20px ;
+            border: 1px solid;
         }
       }
 
