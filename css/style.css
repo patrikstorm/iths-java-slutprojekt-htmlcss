@@ -5,7 +5,7 @@
 }
 
 @media screen and (min-device-width : 481px){
-header {
+body {
     background-image: url(../../img/1.jpg);
     height: 100vh;
     background-size: cover;
@@ -29,7 +29,7 @@ header {
 }
 
     @media screen and (min-device-width : 320px) and (max-device-width : 480px) {
-        header {
+        body {
             background-image: url(../../img/2.png);
             height: 100vh;          
             background-size: cover;
